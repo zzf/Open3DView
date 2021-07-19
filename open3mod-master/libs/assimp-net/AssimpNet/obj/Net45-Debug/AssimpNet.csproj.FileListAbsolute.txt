@@ -1,0 +1,9 @@
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet\bin\Net45-Debug\Assimp32.dll
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet\bin\Net45-Debug\Assimp64.dll
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet\bin\Net45-Debug\AssimpLicense.txt
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet\bin\Net45-Debug\AssimpNet.dll
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet\bin\Net45-Debug\AssimpNet.pdb
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet\obj\Net45-Debug\AssimpNet.csproj.AssemblyReference.cache
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet\obj\Net45-Debug\AssimpNet.csproj.CoreCompileInputs.cache
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet\obj\Net45-Debug\AssimpNet.dll
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet\obj\Net45-Debug\AssimpNet.pdb

@@ -1,0 +1,10 @@
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet.Interop.Generator\bin\Net45-Debug\AssimpNet.Interop.Generator.exe.config
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet.Interop.Generator\bin\Net45-Debug\AssimpNet.Interop.Generator.exe
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet.Interop.Generator\bin\Net45-Debug\AssimpNet.Interop.Generator.pdb
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet.Interop.Generator\bin\Net45-Debug\Mono.Cecil.dll
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet.Interop.Generator\bin\Net45-Debug\Mono.Cecil.Pdb.dll
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet.Interop.Generator\obj\Net45-Debug\AssimpNet.Interop.Generator.csproj.AssemblyReference.cache
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet.Interop.Generator\obj\Net45-Debug\AssimpNet.Interop.Generator.csproj.CoreCompileInputs.cache
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet.Interop.Generator\obj\Net45-Debug\AssimpNet.Interop.Generator.csproj.CopyComplete
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet.Interop.Generator\obj\Net45-Debug\AssimpNet.Interop.Generator.exe
+H:\迅雷下载\open3mod-master\libs\assimp-net\AssimpNet.Interop.Generator\obj\Net45-Debug\AssimpNet.Interop.Generator.pdb

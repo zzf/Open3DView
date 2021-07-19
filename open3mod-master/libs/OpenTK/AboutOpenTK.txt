@@ -1,0 +1,1 @@
+The Open Took Kit (OpenTK), 是对 OpenGL、OpanAL、OpenCL 的跨平台的封装，使用 C# 编写，可以运行在 Windows、 Linux 以及 MacOSX 平台上， 任何 .Net 语言都可以使用它做开发。
